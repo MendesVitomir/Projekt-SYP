@@ -1,7 +1,16 @@
-# Projekt-SYP
-## Diese Repo dient zur erstellung eines Syp projekts. (Mendes Vitomir,Pogner Roland,Psutka Julian)
-### Thema: Firmenwebsite mit Onlineshop 
-### Produkte: Schrotthändler nimmt Alt-Gebrauchtwagen entgegen und verkauft General überholte autoteile. 
-### Firmenname: Autoservice VJR
-### Standort: Linz (Adresse)
-### Aufbau der Homepage: Startseite (Begrüßung), Impressum (Relevante Daten zu Firma), Support (Kontaktformular, AGB), Produktliste (Alle verfügbaren Teile, Ankauf-Verkauf), Webshop (Teile [Produktbeschreibung bzw. Modell], Preise).
+# Firmenwebsite mit kleinem Webshop 
+## Im Rahmen des Syp Unterrichtes sollen wir ein Projekt verwirklichen. /HTML Kentnisse nicht vorhanden.
+## Eine Firmenwebsite mit integrierten Webshop. 
+## Erstellen einer Website (HTML,CSS).
+## Komplexivität von HTML. Anbindung des Webshops. Corona.
+## Termine :
+##            Projektsart: Metting mit Klewein David.(13.12.2021)
+##            Projektende: Ende des Semesters 
+##            Quellcode für die Website
+
+## Kosten/Ressourcen: ...
+## Projektorganisation:
+##                      Klewein David
+##                      Mendes Vitomir
+##                      Pogner Roland,Psutka Julian,MendesVitomir
+## Unterschriften: ...
