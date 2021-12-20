@@ -5,7 +5,7 @@
 ### Komplexivität von HTML. Anbindung des Webshops. Corona.
 ### Termine :
 Projektsart: Metting mit Klewein David.(13.12.2021)
-Projektende: Ende des Semesters 
+Projektende: Ende des Schuljahres
 ### Quellcode für die Website
 
 ### Kosten/Ressourcen: ...
