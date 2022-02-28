@@ -101,9 +101,9 @@ Projektsart: Metting mit Klewein David.(13.12.2021)
 Projektende: Ende des Schuljahres
 ### Quellcode für die Website
 
-### Kosten/Ressourcen: ...
+
 ### Projektorganisation:
 Klewein David
 Mendes Vitomir
 Pogner Roland,Psutka Julian,MendesVitomir
-### Unterschriften: ...
+
