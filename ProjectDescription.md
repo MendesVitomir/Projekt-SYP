@@ -92,7 +92,7 @@ Web Content Accessibility Guidelines (WCAG): Richtlinien zur barrierefreien Gest
 
 
 # Firmenwebsite mit kleinem Webshop 
-## Im Rahmen des Syp Unterrichtes sollen wir ein Projekt verwirklichen. /HTML Kentnisse nicht vorhanden.
+
 ### Eine Firmenwebsite mit integrierten Webshop. 
 ### Erstellen einer Website (HTML,CSS).
 ### Komplexivität von HTML. Anbindung des Webshops. Corona.
